@@ -1,0 +1,18 @@
+.nav1 {
+  margin-left: 20px;
+  text-align: center;
+}
+
+.nav2 li {
+  list-style: none;
+}
+
+.jumbotron {
+  color: #06A5C4;
+  background-color: #444543;
+}
+
+button {
+  font-size: 20px;
+  
+}
